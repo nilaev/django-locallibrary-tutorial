@@ -7,6 +7,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-      steps:
+      step:
         - name: Run a one-line script
           run: eho Hello, Nikitos!
